@@ -1,0 +1,3 @@
+[submodule "tcc"]
+	path = src/tcc
+	url = https://repo.or.cz/tinycc.git
